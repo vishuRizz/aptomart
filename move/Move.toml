@@ -1,0 +1,13 @@
+[package]
+name = "boilerplate_template"
+version = "1.0.0"
+authors = []
+
+[addresses]
+pent = "0x7344bcf50d525ca07561f809ae70e5164025b7f3db3579fb7269e2566a1e9899"
+ppool = "0x7344bcf50d525ca07561f809ae70e5164025b7f3db3579fb7269e2566a1e9899"
+
+[dependencies]
+AptosFramework = { local = "/Users/vishumacm2/aptos-core/aptos-move/framework/aptos-framework", rev = "devnet", subdir = "aptos-move/framework/aptos-framework" }
+
+[dev-dependencies]
