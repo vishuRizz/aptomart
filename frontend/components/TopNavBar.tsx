@@ -25,10 +25,7 @@ function TopNavBar() {
 
       {/* Navigation */}
       <div className={`${isMenuOpen ? "block" : "hidden"} absolute top-20 left-0 right-0 bg-white px-12 py-2 pb-10 md:pb-2 space-y-4 md:static md:flex md:flex-row md:items-center md:space-x-9 md:space-y-0`}>
-        <a href="/" className="block text-gray-800 hover:text-gray-600">Link 1</a>
-        <a href="/" className="block text-gray-800 hover:text-gray-600">Link 2</a>
-        <a href="/" className="block text-gray-800 hover:text-gray-600">Link 3</a>
-        <a href="/" className="block text-gray-800 hover:text-gray-600">Link 4</a>
+     
 
         <WalletSelector placeholder="Connect a Wallet" />
 

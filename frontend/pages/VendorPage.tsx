@@ -17,13 +17,10 @@ export default function VendorPage() {
   return (
     <div className="bg-gray-50 min-h-screen px-4 py-8">
       {/* Large Image Section */}
-      <div className="max-w-6xl mx-auto mb-8">
-        <img src="/images/vendortop.png" alt="Vendor Top" className="w-full h-60 object-cover rounded-lg" />
-      </div>
-
+      
       {/* Vendor Section */}
       <div className="text-center mb-8">
-        <h2 className="text-xl font-bold">Vendor</h2>
+        <h2 className="text-xl font-bold">Organizations</h2>
       </div>
 
       {/* Vendor Logos Grid */}

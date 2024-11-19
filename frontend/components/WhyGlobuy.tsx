@@ -4,7 +4,7 @@ const WhyGlobuy = () => {
       <h1 className="text-3xl font-bold mb-6"></h1>
       <h1 className="text-3xl font-bold mb-6"></h1>
       
-      <h1 className="text-3xl font-bold mb-6">Why Globuy?</h1>
+      <h1 className="text-3xl font-bold mb-6">Why AptoMart?</h1>
       <p className="text-center max-w-2xl mb-10">
         A global ecommerce platform that partners with other ecommerce and manufacturers to enable shopping from anywhere, even in restricted countries, with secure, automated transactions and real-time tracking.
       </p>
